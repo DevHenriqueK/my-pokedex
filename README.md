@@ -15,6 +15,6 @@
 
   <div>
     <h3>Interface simples, mas autoexplicativa</h3>
-    <video width="200px" src="./src/assets/videos/interface.mp4"><video>
+    [<img src="./src/assets/videos/interface.mp4" alt="interface-video">]
   </div>
 </ol>
