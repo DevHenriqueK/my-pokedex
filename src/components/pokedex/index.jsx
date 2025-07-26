@@ -84,18 +84,12 @@ const StyledGrid = styled.section`
 `
 
 const StyledArticle = styled.article`
-    height: ${styles.articleHeight};
     border-radius: 20px;
     text-align: center;
     padding: 10px;
     scale: 98%;
     transition: ${styles.transitionSettings};
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
-
-    &:hover {
-        scale: 100%;
-        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
-    }
 
 
     &.fire {background-color: ${styles.fire.backgroundColor}}

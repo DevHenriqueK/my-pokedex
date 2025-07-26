@@ -1,6 +1,6 @@
 export const styles = {
     gridWidth: '300px',
-    articleHeight: '100%',
+    articleHeight: '400px',
     firstLetter: '&::first-letter {text-transform: uppercase;}',
     backgroundPosition: 'right 0.5em top 0.5em',
     backgroundSize: '100%',
