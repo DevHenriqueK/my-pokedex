@@ -14,7 +14,27 @@
   </li>
 
   <div>
-    <h3>Interface simples, mas autoexplicativa</h3>
-    [<img src="./src/assets/videos/interface.mp4" alt="interface-video">]
+    <h3>Interface simples!</h3>
+    <img src="./src/assets/videos/interface.gif" alt="interface-gif">
+  </div>
+
+  <div>
+    <h3>Alterne entre modos claro e escuro num clique!</h3>
+    <img src="./src/assets/videos/light-modes.gif" alt="light-modes-gif">
+  </div>
+
+  <div>
+    <h3>Pesquise um Pokémon específico ou busque por letras!</h3>
+    <img src="./src/assets/videos/pokemon-search.gif" alt="search-gif">
+  </div>
+
+  <div>
+    <h3>Carregue mais Pokémons sempre que quiser!</h3>
+    <img src="./src/assets/videos/more-pokemons.gif" alt="more-pokemons-gif">
+  </div>
+
+  <div>
+    <h3>Veja as informações do Pokémon apenas clicando nele.</h3>
+    <img src="./src/assets/videos/infos.gif" alt="infos-gif">
   </div>
 </ol>
